@@ -12,4 +12,4 @@
 
 **Weeks**
 
-- [Week 2 (Haskell)](https://github.com/bbsbb/fmi-group4-summer2020/tree/master/week-3) - Basics, digits, lists, lazy.
+- [Week 2 (Haskell)](https://github.com/bbsbb/fmi-group4-summer2020/tree/master/week-2) - Basics, digits, lists, lazy.
