@@ -71,8 +71,8 @@ Examples:
     normalize (8, 4) -> (2, 1)
     normalize (2, 4) -> (1, 2)
 
-## Task 20
-By using the solution to task 19, additionally define the following functions for the Rat data type:
+## Task 9
+By using the solution to task 8, additionally define the following functions for the Rat data type:
 
     sumRats - returns the sum of two rational numbers
     multiplyRats - returns the product of two rational numbers
